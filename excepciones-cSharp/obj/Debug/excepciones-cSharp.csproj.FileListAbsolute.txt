@@ -1,0 +1,7 @@
+C:\Users\magcl\OneDrive\Documentos\GitHub\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.exe.config
+C:\Users\magcl\OneDrive\Documentos\GitHub\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.exe
+C:\Users\magcl\OneDrive\Documentos\GitHub\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.pdb
+C:\Users\magcl\OneDrive\Documentos\GitHub\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.csproj.AssemblyReference.cache
+C:\Users\magcl\OneDrive\Documentos\GitHub\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.csproj.CoreCompileInputs.cache
+C:\Users\magcl\OneDrive\Documentos\GitHub\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.exe
+C:\Users\magcl\OneDrive\Documentos\GitHub\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.pdb
